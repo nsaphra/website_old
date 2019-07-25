@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-PhD student at The University of Edinburgh. My current interests are in understanding how deep models learn to encode linguistic structure and in how we can encode inductive bias from linguistics into the training process.
+I am a PhD student at The University of Edinburgh, studying NLP and machine learning with my primary supervisor [Adam Lopez](https://alopez.github.io/). My current interests are in understanding how deep models learn to encode linguistic structure and in how we can encode inductive bias from linguistics into the training process.

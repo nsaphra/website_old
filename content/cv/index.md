@@ -1,7 +1,9 @@
 ---
 title: CV
-layout: page
+layout: docs
 permalink: /cv/
+reading_time: false
+share: false
 ---
 
 ### Education
@@ -38,11 +40,11 @@ Contractor. Developed neural classifiers for informal text at NYC startup.
 
 **Google (Summer 2015):**
 
-SWE Intern, Machine intelligence group. Worked on semantics of complex noun phrases.
+SWE Intern, Machine Intelligence group. Worked on semantics of complex noun phrases.
 
 **Google (Summer 2013):**
 
-SWE Intern, machine intelligence group. Using models of real-world knowledge as feedback to semantic annotation systems.
+SWE Intern, Machine Intelligence group. Using models of real-world knowledge as feedback to semantic annotation systems.
 
 **Facebook, Inc. (Summer 2011):**
 
@@ -50,7 +52,7 @@ Engineering Intern. Engineered and tested new features for the People You May Kn
 
 ### Teaching
 
-**Tutor, University of Edinburgh (2016-2018)**
+**Tutor, University of Edinburgh (2016-2019)**
 
 Machine Learning And Pattern Recognition; Probabilistic Modeling And Reasoning; Informatics Research Review.
 
@@ -71,8 +73,8 @@ Ancient Greek. (I will never drop this item from my CV.)
 ### Awards
 - Daniella Sciama Award for Achievement through Adversity 2019.
 - Google Europe Scholarship for Students with Disabilities 2017.
-- Carnegie Mellon School of Computer Science Dragon Award.
-- National Merit Semifinalist.
+- Carnegie Mellon School of Computer Science Dragon Award 2013.
+- National Merit Semifinalist 2009.
 - Nannina Rasulo Memorial Scholarship Award for Technology 2009.
 
 ### Talks
