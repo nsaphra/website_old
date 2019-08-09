@@ -23,7 +23,9 @@ preview = true
 
 +++
 
-In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the  morning, sending a text, lifting a glass. In relating this story, I often mention that I spent a month with nothing to do but go to a bar and order a shot of vodka with a straw in it. I then laugh, as though this is a joke. For the first month, I couldn't uncurl my fingers. I have been in pain for four years.
+In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the  morning, sending a text, lifting a glass. In relating this story, I often mention that I spent a month with nothing to do but go to a bar and order a shot of vodka with a straw in it. I then laugh, as though this is a joke.
+
+I have been in pain for four years.
 
 ---
 
