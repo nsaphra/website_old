@@ -1,6 +1,6 @@
 +++
 title = "What Does a Coder Do If They Can't Type?"
-date = 2015-04-24T18:11:42+01:00
+date = 2019-08-08T18:11:42+01:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -74,15 +74,10 @@ The [Talon community](https://github.com/dwiel/talon_community) has specialized 
 
  My Talon setup relies on Dragon for the speech recognition side. Unfortunately, Nuance has discontinued OSX Dragon editions that make scripting possible. The coder behind Talon, [Ryan Hileman](http://ryanhileman.com/), is working on a suitable replacement but as of the publication of this blog post it is not yet ready.
 
-### Limitations
-
-The largest concern if you begin to dictate code is that you do not develop a repetitive stress injury in your vocal tract. I strongly recommend finding a vocal coach who teaches actors and singers how to protect their voices. Speaking quietly can actually cause more damage, hydration is important, and better posture will prevent damage in your voice as well as the rest of your body. It is important to take breaks, and you may find talking tiring outside of work.
-
-Speech recognition technology is not perfect, and the error rate is even higher if you have an unusual accent. Furthermore, it may force you to take time off from programming every time you develop a cold or sore throat. I live in fear of even minor colds.
-
-Having a private space to dictate in is essential. I was unable to be productive working from home, but as soon as I had a private office I developed momentum on several research projects. For a lot of people this is a huge limitation, because of the productivity-destroying, soul-sucking trend towards open offices for all programming work. In many countries, large companies will be obligated to provide a space to work in if you are disabled.
 
 ---
+
+### Interlude
 
 People often ask my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, I was given my first diagnosis of *fibromyalgia*, a word which is Doctor for "go away".
 
@@ -108,7 +103,22 @@ My final essential piece of equipment is a pair of [large wrist braces](https://
 
 ---
 
+### Interlude
+
 I often struggle to sleep. I dream that my thumbs fall off. I dream that every bone in my hands breaks. I dream that my arms break out in open bleeding sores. I wake up and the pain remains like an invisible nightmare.
+
+---
+
+## Limitations
+
+The largest concern if you begin to dictate code is that you do not develop a repetitive stress injury in your vocal tract. I strongly recommend finding a vocal coach who teaches actors and singers how to protect their voices. Speaking quietly can actually cause more damage, hydration is important, and better posture will prevent damage in your voice as well as the rest of your body. It is important to take breaks, and you may find talking tiring outside of work.
+
+Speech recognition technology is not perfect, and the error rate is even higher if you have an unusual accent. Furthermore, it may force you to take time off from programming every time you develop a cold or sore throat. I live in fear of even minor colds.
+
+Having a private space to dictate in is essential. I was unable to be productive working from home, but as soon as I had a private office I developed momentum on several research projects. For a lot of people this is a huge limitation, because of the productivity-destroying, soul-sucking trend towards open offices for all programming work. In many countries, large companies will be obligated to provide a space to work in if you are disabled.
+
+---
+### Addendum
 
 Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) and satisfying work and [hobbies](https://auldreekierollerderby.com/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. I promise that you can, given time and effort. I encourage other disabled scientists and programmers to reach out to me with any questions they have.
 
