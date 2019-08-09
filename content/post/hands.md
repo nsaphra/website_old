@@ -79,7 +79,7 @@ The [Talon community](https://github.com/dwiel/talon_community) has specialized 
 
 ### Interlude
 
-People often ask my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, I was given my first diagnosis of *fibromyalgia*, a word which is Doctor for "go away".
+People often ask my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, I was given my first diagnosis: *fibromyalgia*, a word which is Doctor for "go away".
 
 Later on a neurologist performed a skin biopsy that led to my official American diagnosis of "idiopathic small fiber neuropathy", meaning of that I am missing crucial nerve fibers that transmit heat and pain but nobody knows why. *Idiopathic* is also Doctor for "go away".
 
@@ -120,7 +120,7 @@ Having a private space to dictate in is essential. I was unable to be productive
 ---
 ### Addendum
 
-Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) and satisfying work and [hobbies](https://auldreekierollerderby.com/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. I promise that you can, given time and effort. I encourage other disabled scientists and programmers to reach out to me with any questions they have.
+Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) as well as satisfying work and [hobbies](https://auldreekierollerderby.com/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. I promise that you can, given time and effort. I encourage other disabled scientists and programmers to reach out to me with any questions they have.
 
 
 ![Picture of me smiling while wearing my microphone and wrist braces](/img/IMG_0167.jpg)
