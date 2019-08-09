@@ -74,7 +74,7 @@ The [Talon community](https://github.com/dwiel/talon_community) has specialized 
 
  My Talon setup relies on Dragon for the speech recognition side. Unfortunately, Nuance has discontinued OSX Dragon editions that make scripting possible. The coder behind Talon, [Ryan Hileman](http://ryanhileman.com/), is working on a suitable replacement but as of the publication of this blog post it is not yet ready.
 
-## Limitations
+### Limitations
 
 The largest concern if you begin to dictate code is that you do not develop a repetitive stress injury in your vocal tract. I strongly recommend finding a vocal coach who teaches actors and singers how to protect their voices. Speaking quietly can actually cause more damage, hydration is important, and better posture will prevent damage in your voice as well as the rest of your body. It is important to take breaks, and you may find talking tiring outside of work.
 
