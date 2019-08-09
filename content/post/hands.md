@@ -121,6 +121,3 @@ Having a private space to dictate in is essential. I was unable to be productive
 ### Addendum
 
 Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) as well as satisfying work and [hobbies](https://auldreekierollerderby.com/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. I promise that you can, given time and effort. I encourage other disabled scientists and programmers to reach out to me with any questions they have.
-
-
-![Picture of me smiling while wearing my microphone and wrist braces](/img/IMG_0167.jpg)
