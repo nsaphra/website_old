@@ -23,7 +23,7 @@ preview = true
 
 +++
 
-In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the  morning, sending a text, lifting a glass. In relating this story, I often mention that I spent a month with nothing to do but go to a bar and order a shot of vodka with a straw in it. I then laugh, as though this is a joke.
+In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the  morning, sending a text, lifting a glass. In relating this story, I often mention that I spent a month with nothing to do but go to a bar and order a shot of vodka with a straw in it. This is a very funny joke.
 
 I have been in pain for four years.
 
@@ -33,9 +33,9 @@ I have been in pain for four years.
 
 Due to this disability, I cannot type or write. Many people have asked me about the stack that enables me to be productive in spite of this limitation.
 
-The star of the show is [Talon](https://talonvoice.com/), a system which makes it easy to write customized grammars and scripts that work with speech recognition systems to enable programmers. Commands range from simple aliases for common symbols to complex meta-commands to repeat a previous utterance or  change dictation modes. For example, just in the case of parentheses, I have separate commands for `(`, `)`, `()`, and `()⬅️` (which leaves the cursor between parentheses so my next utterance is bracketed).
+The star of the show is [Talon](https://talonvoice.com/), a system which makes it easy to write customized grammars and scripts that work with speech recognition systems to enable programming. Commands range from simple aliases for common symbols to complex meta-commands which repeat a previous utterance or  change dictation modes. For example, just in the case of parentheses, I have separate commands for `(`, `)`, `()`, and `()⬅️` (which leaves the cursor between parentheses so my next utterance is bracketed).
 
- We each have a number of scripts particular to the programmer. My most precious script that I've written is probably my indexed clipboard:
+ Each Talon user has a number of personal scripts. The most precious script that I've written is probably my indexed clipboard:
 
 {{< highlight python >}}
  from talon.voice import Key, press, Str, Context
@@ -72,14 +72,14 @@ The [Talon community](https://github.com/dwiel/talon_community) has specialized 
 
  {{< youtube Mz3JeYfBTcY >}}
 
- My Talon setup relies on Dragon for the speech recognition side. Unfortunately, Nuance has discontinued OSX Dragon editions that make scripting possible. The coder behind Talon, [Ryan Hileman](http://ryanhileman.com/), is working on a suitable replacement but as of the publication of this blog post it is not yet ready.
+ My Talon setup relies on Dragon for the speech recognition side. Unfortunately, Nuance has discontinued OSX Dragon editions that make scripting possible. The coder behind Talon, [Ryan Hileman](http://ryanhileman.com/), is working on a suitable replacement but at time of writing, it is not yet ready.
 
 
 ---
 
 ### Interlude
 
-People often ask my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, I was given my first diagnosis: *fibromyalgia*, a word which is Doctor for "go away".
+People often ask for my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, I was given my first American diagnosis: *fibromyalgia*, a word which is Doctor for "go away".
 
 Later on a neurologist performed a skin biopsy that led to my official American diagnosis of "idiopathic small fiber neuropathy", meaning that I am missing crucial nerve fibers that transmit heat and pain but nobody knows why. *Idiopathic* is also Doctor for "go away".
 
@@ -93,7 +93,7 @@ He then kicked me out of his office for using the word "fucking". "We do not tol
 
 ## Equipment
 
-For dictating, I use two different microphones. In the office, I use a [Sennheiser ME-3](https://www.amazon.com/Sennheiser-ME-II-Dynamic-Microphone/dp/B00UO0UNOE), while for travel I use a Bluetooth headset, the [Sennheiser MB Pro 2](https://en-uk.sennheiser.com/mb-pro-1-uc-ml-and-mb-pro-2-uc-ml).
+For dictating, I use two different microphones. In the office, I use a [Sennheiser ME-3](https://en-uk.sennheiser.com/me-3-ii), while for travel I use a Bluetooth headset, the [Sennheiser MB Pro 2](https://en-uk.sennheiser.com/mb-pro-1-uc-ml-and-mb-pro-2-uc-ml).
 
 Another essential piece of equipment for me is my foot pedal, a [PageFlip Firefly](https://www.pageflip.com/products/firefly). It is programmable, so I have modified the settings to include one that is useful for reading papers in [Skim](https://skim-app.sourceforge.io/), with the left pedal corresponding to a click and the right pedal corresponding to down arrow. I can use my feet to scroll, and to click for annotations. Another pedal setting I have added maps the pedals to click and shift+enter. This setting is useful for Jupyter notebooks and writing my research notes and mathematical scratch work in [Quiver](https://happenapps.com/).
 
@@ -105,13 +105,13 @@ My final essential piece of equipment is a pair of [large wrist braces](https://
 
 ### Interlude
 
-I often struggle to sleep. I dream that my thumbs fall off. I dream that every bone in my hands breaks. I dream that my arms break out in open bleeding sores. I wake up and the pain remains like an invisible nightmare.
+I struggle to sleep. I dream that my thumbs fall off. I dream that every bone in my hands breaks. I dream that my arms break out in open bleeding sores. I wake up and the pain remains like an invisible nightmare.
 
 ---
 
 ## Limitations
 
-The largest concern if you begin to dictate code is that you do not develop a repetitive stress injury in your vocal tract. I strongly recommend finding a vocal coach who teaches actors and singers how to protect their voices. Speaking quietly can actually cause more damage, hydration is important, and better posture will prevent damage in your voice as well as the rest of your body. It is important to take breaks, and you may find talking tiring outside of work.
+The largest concern if you begin to dictate code is that you do not develop a repetitive stress injury in your vocal tract. Speaking quietly can actually cause more damage, hydration is important, and better posture will prevent damage in your voice as well as the rest of your body. I strongly recommend finding a vocal coach who teaches actors and singers how to protect their voices. It is important to take breaks, and you may find talking tiring outside of work.
 
 Speech recognition technology is not perfect, and the error rate is even higher if you have an unusual accent. Furthermore, it may force you to take time off from programming every time you develop a cold or sore throat. I live in fear of even minor colds.
 
