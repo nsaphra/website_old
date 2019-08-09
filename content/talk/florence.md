@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-08-25T16:45:00
+time_start = 2019-08-01T16:45:00
 # time_end = 2030-06-01T15:00:00
 
 # Abstract and optional shortened version.
@@ -35,7 +35,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/JEH2fiyjrJU?t=28380"
 url_code = ""
 
 # Does the content use math formatting?
