@@ -31,7 +31,7 @@ I have been in pain for four years.
 
 ## Talon
 
-Due to this disability, I cannot type or write. Many people have asked me about the stack that enables me to be productive in spite of this limitation.
+Due to this disability, I cannot type or write. Many people have asked me about the stack that enables me to be productive in spite of this limitation. I hope this information is helpful both for people with more severe limitations, and for programmers with mild repetitive stress injuries who can benefit from reducing their keyboard use.
 
 The star of the show is [Talon](https://talonvoice.com/), a system which makes it easy to write customized grammars and scripts that work with speech recognition systems to enable programming. Commands range from simple aliases for common symbols to complex meta-commands which repeat a previous utterance or  change dictation modes. For example, just in the case of parentheses, I have separate commands for `(`, `)`, `()`, and `()⬅️` (which leaves the cursor between parentheses so my next utterance is bracketed).
 
