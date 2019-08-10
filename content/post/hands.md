@@ -64,7 +64,7 @@ The star of the show is [Talon](https://talonvoice.com/), a system which makes i
  ctx.keymap(keymap)
 {{< / highlight >}}
 
- The use is simple. After selecting a particular phrase using my cursor control commands, I say "clip [foo]", and every time I want to enter the same phrase after, I say "paste [foo]". I therefore only have to dictate a particularly obnoxious variable name once. However, it does introduce a new challenge: every variable has two names, its written name and its spoken name. This unfortunate side effect is to exacerbates the difficulty of naming variables, which has been called "the hardest problem in computer science".
+ The use is simple. After selecting a particular phrase using my cursor control commands, I say "clip [foo]", and every time I want to enter the same phrase after, I say "paste [foo]". I therefore only have to dictate a particularly obnoxious variable name once. However, it does introduce a new challenge: every variable has two names, its written name and its spoken name. This unfortunate side effect exacerbates the difficulty of naming variables, which has been called "the hardest problem in computer science".
 
  If you are a vim or Emacs power user, this may all feel familiar to you. I have commands for searching, moving a cursor, selection, and manipulating the clipboard. Learning to dictate code is a lot like learning a new text editor very thoroughly, down to the challenge of customizing for your particular languages and needs.
 
@@ -120,7 +120,7 @@ Having a private space to dictate in is essential. I was unable to be productive
 ---
 ### Addendum
 
-Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) as well as satisfying work and [hobbies](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. That is why I have tried to give you a lens into my challenges as well as my successes. It is easy to respond to anyone who has overcome adversity with one of two reactions: "It can't be that hard," or "I could never do that". Move past both reactions. It is that hard. You can do it.
+Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) as well as satisfying [work](http://nsaphra.github.io/publication/) and [hobbies](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. That is why I have tried to give you a lens into my challenges as well as my successes. It is easy to respond to anyone who has overcome adversity with one of two reactions: "It can't be that hard," or "I could never do that". Move past both reactions. It is that hard. You can do it.
 
 If you are currently able-bodied, please support your disabled colleagues, coworkers, and anyone you have power over in their quest to do valuable and fulfilling work. I encourage other disabled scientists and programmers to reach out to me with any questions they have.
 
