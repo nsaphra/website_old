@@ -127,4 +127,4 @@ If you are currently able-bodied, please support your disabled colleagues, cowor
 ---
 *Thank you for comments on early drafts: [Annabelle Carrell](http://www.cs.jhu.edu/~vandurme/Carrell.html), [Craig Innes](http://www.craiginnes.com/), [Matthew Summers](https://twitter.com/uscm_), [Dina Lev](https://www.dinalevitan.com/), [Dominik Schlechtweg](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schlecdk/index.en.html), and [Yuhe Faye Wang](https://americanstudies.yale.edu/people/yuhe-faye-wang) (who is in The Humanities!). Thank you to [The Recurse Center](https://www.recurse.com/) for providing a private space for me to learn to dictate code. Thank you to my PhD advisor, [Adam Lopez](https://alopez.github.io/), who has unfailingly supported me and made all of this possible.*
 
-An earlier version of this post called "fibromyalgia" and "idiopathic" Doctorspeak for "go away", which I recognized as somewhat unfair to my extremely help American neurologist.
+An earlier version of this post called "fibromyalgia" and "idiopathic" Doctorspeak for "go away", which I recognized as somewhat unfair to my extremely helpful American neurologist.
