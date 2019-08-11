@@ -52,7 +52,7 @@ Engineering Intern. Engineered and tested new features for the People You May Kn
 
 ### Teaching
 
-**Tutor, University of Edinburgh (2016-2019)**
+**Tutor, University of Edinburgh (2016-)**
 
 Machine Learning And Pattern Recognition; Probabilistic Modeling And Reasoning; Informatics Research Review.
 
@@ -65,10 +65,12 @@ Natural Language Processing.
 Ancient Greek. (I will never drop this item from my CV.)
 
 ### Service
-- Student Social Co-Chair for ACL 2014.
-- Volunteer for North American Computational Linguistics Olympiad.
-- Carnegie Mellon TechNights volunteer (outreach program).
-- Carnegie Mellon Tartanhacks Mentor (hackathon).
+- Machine Learning for NLP Reading Group Leader at Edinburgh (2018-)
+- ILCC Cookie Czar (2018-).
+- Student Social Co-Chair for ACL (2014).
+- Volunteer for North American Computational Linguistics Olympiad (2011-14).
+- Carnegie Mellon TechNights teacher (outreach program) (2013).
+- Carnegie Mellon Tartanhacks Mentor (hackathon) (2013).
 
 ### Awards
 - Daniella Sciama Award for Achievement through Adversity 2019.

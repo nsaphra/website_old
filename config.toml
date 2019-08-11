@@ -255,6 +255,11 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/nsaphra"
 
+  # [[params.social]]
+  #   icon = "goodreads"
+  #   icon_pack = "fa"
+  #   link = "//goodreads.com/user/show/3771853-naomi-saphra"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
