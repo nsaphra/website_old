@@ -79,11 +79,11 @@ The [Talon community](https://github.com/dwiel/talon_community) has specialized 
 
 ### Interlude
 
-People often ask for my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, a rheumatologist gave me my first American diagnosis: *fibromyalgia*, a word which is Doctorspeak for "I don't know".
+People often ask for my diagnosis, but it officially depends on the country I'm in. After an initial assumption that carpal tunnel was to blame, a rheumatologist gave me my first American diagnosis: *fibromyalgia*, a word which is Doctorspeak for "go away".
 
-A neurologist performed a skin biopsy that led to my official American diagnosis of "idiopathic small fiber neuropathy", meaning that I am missing crucial nerve fibers that transmit heat and pain but nobody knows why. *Idiopathic* is also Doctorspeak for "I don't know".
+I did not go away. A neurologist performed a skin biopsy that led to my official American diagnosis of "idiopathic small fiber neuropathy", meaning that I am missing crucial nerve fibers that transmit heat and pain but nobody knows why. *Idiopathic* is also Doctorspeak for "go away".
 
-I brought my medical records when I moved from America to the UK, but my new neurologist did not read my records or perform examinations. After a brief conversation, he gave me my British diagnosis by submitting a note that he had no evidence of any physical cause, and he "suspected significant functional overlay", which is how they teach you to call someone delusional in medical school.
+I went away to the UK. I brought my medical records from America, but my British neurologist did not read my records or perform examinations. After a brief conversation, he gave me my British diagnosis by submitting a note that he had no evidence of any physical cause, and he "suspected significant functional overlay", which is how they teach you to call someone delusional in medical school.
 
 My GP read the note and informed me: He would not prescribe me painkillers. He would not send me for a second opinion from a neurologist, or treatment from any other specialist. The only referral he would write would be to a psychologist to help me "resolve the underlying issues behind my pain".
 
@@ -126,5 +126,3 @@ If you are currently able-bodied, please support your disabled colleagues, cowor
 
 ---
 *Thank you for comments on early drafts: [Annabelle Carrell](http://www.cs.jhu.edu/~vandurme/Carrell.html), [Craig Innes](http://www.craiginnes.com/), [Matthew Summers](https://twitter.com/uscm_), [Dina Lev](https://www.dinalevitan.com/), [Dominik Schlechtweg](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schlecdk/index.en.html), and [Yuhe Faye Wang](https://americanstudies.yale.edu/people/yuhe-faye-wang) (who is in The Humanities!). Thank you to [The Recurse Center](https://www.recurse.com/) for providing a private space for me to learn to dictate code. Thank you to my PhD advisor, [Adam Lopez](https://alopez.github.io/), who has unfailingly supported me and made all of this possible.*
-
-An earlier version of this post called "fibromyalgia" and "idiopathic" Doctorspeak for "go away", which I recognized as somewhat unfair to my extremely helpful American neurologist.
