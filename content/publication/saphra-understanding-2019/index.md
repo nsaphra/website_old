@@ -8,5 +8,5 @@ abstract: "Research has shown that neural models implicitly encode linguistic fe
 selected: true
 publication: "*NAACL*"
 tags: ["Computer Science - Computation and Language", "Computer Science - Neural and Evolutionary Computing"]
-url_pdf: "http://arxiv.org/abs/1811.00225"
+url_pdf: "https://www.aclweb.org/anthology/N19-1329"
 ---

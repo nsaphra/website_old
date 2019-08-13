@@ -7,6 +7,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Linguistic Annotation Workshop*"
-url_pdf: "http://arxiv.org/abs/1306.2091"
+url_pdf: "https://www.aclweb.org/anthology/W13-2307"
 ---
-

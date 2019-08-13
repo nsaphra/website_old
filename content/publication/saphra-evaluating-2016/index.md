@@ -7,6 +7,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*The First Workshop on Evaluating Vector Space Representations for NLP*"
-url_pdf: "https://arxiv.org/abs/1606.08270"
+url_pdf: "https://www.aclweb.org/anthology/W16-2517.pdf"
 ---
-
