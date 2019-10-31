@@ -6,6 +6,8 @@ reading_time: false
 share: false
 ---
 
+PDFs: [Industry resume]() or [academic CV]()
+
 ### Education
 
 **PhD, Informatics.** University of Edinburgh (In Progress, est. 2020)
@@ -65,12 +67,23 @@ Natural Language Processing.
 Ancient Greek. (I will never drop this item from my CV.)
 
 ### Service
+- Edinburgh Uni Staff Pride Network Disability Representative (2019-)
 - Machine Learning for NLP Reading Group Leader at Edinburgh (2018-)
 - ILCC Cookie Czar (2018-).
 - Student Social Co-Chair for ACL (2014).
 - Volunteer for North American Computational Linguistics Olympiad (2011-14).
 - Carnegie Mellon TechNights teacher (outreach program) (2013).
 - Carnegie Mellon Tartanhacks Mentor (hackathon) (2013).
+
+### Reviewing Service
+- EMNLP
+- NAACL
+- NeurIPS(secondary)
+- BlackboxNLP
+- RepEval
+- LearningWithLimitedData
+- WomeninMachineLearning
+- WiNLP
 
 ### Awards
 - Daniella Sciama Award for Achievement through Adversity 2019.
