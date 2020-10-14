@@ -18,8 +18,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Informatics (ongoing)"
+  course = "PhD in Informatics"
   institution = "University of Edinburgh"
+  year = 2021
 
 [[education.courses]]
   course = "MEng. in Computer Science"
