@@ -6,11 +6,11 @@ reading_time: false
 share: false
 ---
 
-PDFs: [Industry resume](https://nsaphra.github.io/industry_resume.pdf) or [academic CV](https://nsaphra.github.io/cv.pdf)
+PDFs: [Industry resume](/files/industry_resume.pdf) or [academic CV](/files/nsaphra.github.io/cv.pdf)
 
 ### Education
 
-**PhD, Informatics.** University of Edinburgh (In Progress, est. 2020)
+**PhD, Informatics.** University of Edinburgh (In Progress, est. 2021)
 
 **Masters of Science and Engineering, Computer Science.** Johns Hopkins University, 2015
 
@@ -35,6 +35,10 @@ Undergraduate Research Fellow at the CLSP Summer Workshop. On computer vision te
 to verify and explore boundary annotations from Mechanical Turk.
 
 ### Industry Experience
+
+**Google (Winter 2020):**
+
+Research Intern, AI/Language group. Worked on dynamics of transformer models.
 
 **Koko, inc. (2017)**
 
@@ -67,25 +71,31 @@ Natural Language Processing.
 Ancient Greek. (I will never drop this item from my CV.)
 
 ### Service
-- Edinburgh Uni Staff Pride Network Disability Representative (2019-)
-- Machine Learning for NLP Reading Group Leader at Edinburgh (2018-)
-- ILCC Cookie Czar (2018-).
+- ACL Accessibility Subcommittee (2020)
+- Edinburgh Uni Staff Pride Network Disability Representative (2019-2020)
+- Machine Learning for NLP Reading Group Leader at Edinburgh (2018-2019)
+- ILCC Cookie Czar (2018-2019).
 - Student Social Co-Chair for ACL (2014).
 - Volunteer for North American Computational Linguistics Olympiad (2011-14).
 - Carnegie Mellon TechNights teacher (outreach program) (2013).
 - Carnegie Mellon Tartanhacks Mentor (hackathon) (2013).
 
 ### Reviewing Service
+- ICLR
+- ICML
+- EACL
+- ACL
 - EMNLP
 - NAACL
 - NeurIPS(secondary)
 - BlackboxNLP
 - RepEval
-- LearningWithLimitedData
-- WomeninMachineLearning
+- Learning With Limited Data
+- Women in Machine Learning (WIML)
 - WiNLP
 
 ### Awards
+- New York Academy of Sciences - Natural Language, Dialogue and Speech Symposium: Best Poster Runner Up
 - Daniella Sciama Award for Achievement through Adversity 2019.
 - Google Europe Scholarship for Students with Disabilities 2017.
 - Carnegie Mellon School of Computer Science Dragon Award 2013.

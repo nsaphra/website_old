@@ -1,11 +1,11 @@
 +++
-title = "Learning Dynamics of Text Models With SVCCA"
+title = "Transparent, Hackable, Accessible"
 date = 2019-05-28T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-01-25T13:00:00
+time_start = 2020-10-21T13:00:00
 # time_end = 2030-06-01T15:00:00
 
 # Abstract and optional shortened version.
@@ -13,13 +13,13 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "University of Amsterdam"
+event = "Queer in AI Social at EMNLP"
 
 # Location of event.
-location = "Amsterdam, Netherlands"
+location = "Remote"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -35,7 +35,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=BKYWt8B9hgs"
+url_video = ""
 url_code = ""
 
 # Does the content use math formatting?
