@@ -35,7 +35,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=BKYWt8B9hgs"
 url_code = ""
 
 # Does the content use math formatting?
