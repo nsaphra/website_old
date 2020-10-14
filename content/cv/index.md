@@ -6,7 +6,7 @@ reading_time: false
 share: false
 ---
 
-PDFs: [Industry resume](/files/industry_resume.pdf) or [academic CV](/files/nsaphra.github.io/academic_CV.pdf)
+PDFs: [Industry resume](/files/industry_resume.pdf) or [academic CV](/files/academic_CV.pdf)
 
 ### Education
 
