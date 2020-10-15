@@ -11,6 +11,8 @@ authors = []
 tags = ['personal']
 categories = []
 
+summary = "In August of 2015, my hands stopped working. This is what happened next."
+
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # Use `caption` to display an image caption.

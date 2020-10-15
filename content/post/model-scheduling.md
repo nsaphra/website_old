@@ -11,6 +11,9 @@ authors = []
 tags = []
 categories = []
 
+
+summary = "Notes on incrementally constraining the topology of a neural network as a method of regularization."
+
 # Featured image
 # Place ymy image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # Use `caption` to display an image caption.
@@ -21,7 +24,6 @@ image = ""
 caption = ""
 preview = true
 math = true
-
 +++
 
 

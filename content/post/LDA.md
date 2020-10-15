@@ -12,6 +12,8 @@ authors = []
 tags = []
 categories = []
 
+summary = "An explanation of Latent Dirichlet Allocation (LDA), a common method of topic modeling."
+
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # Use `caption` to display an image caption.
