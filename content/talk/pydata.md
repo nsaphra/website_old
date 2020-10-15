@@ -1,5 +1,5 @@
 +++
-title = "Accessible Means Hackable"
+title = "Accessible Means Hackable (Keynote)"
 date = 2020-08-15T13:00:00  # Schedule page publish date.
 draft = false
 
@@ -13,7 +13,7 @@ abstract = "In 2015, after over a decade of programming, I lost the ability to t
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "PyDataFest Amsterdam Keynote"
+event = "PyDataFest Amsterdam"
 
 # Location of event.
 location = "Remote due to pandemic"

@@ -13,7 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Queer in AI Social at EMNLP"
+event = "[Queer in AI Social at EMNLP](https://sites.google.com/view/queer-in-ai/emnlp2020)"
 
 # Location of event.
 location = "Remote"

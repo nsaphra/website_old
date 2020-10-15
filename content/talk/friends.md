@@ -13,7 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "NLP With Friends"
+event = "[NLP With Friends](https://nlpwithfriends.com/)"
 
 # Location of event.
 location = "Remote"
