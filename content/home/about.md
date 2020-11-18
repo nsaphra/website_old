@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Informatics"
   institution = "University of Edinburgh"
-  year = 2021
+  year = SOON
 
 [[education.courses]]
   course = "MEng. in Computer Science"
