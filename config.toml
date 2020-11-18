@@ -72,8 +72,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "nsaphra@nsaphra.net"
-  # address = "Room 418c, University of Edinburgh, Edinburgh, UK"
+  email = "n.saphra@ed.ac.uk"
+  address = "Room 418c, University of Edinburgh, Edinburgh, UK"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   # skype = "echo123"
@@ -233,7 +233,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "fa-envelope"
     icon_pack = "fas"
-    link = "mailto:nsaphra@nsaphra.net"
+    link = "mailto:n.saphra@ed.ac.uk"
 
   [[params.social]]
     icon = "fa-twitter"
