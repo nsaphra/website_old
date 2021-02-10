@@ -13,14 +13,15 @@ weight = 5
     "Artificial Intelligence",
     "Natural Language Processing",
     "Interpretability",
-    "Learning Dynamics"
+    "Training Dynamics",
+    "Compositionality",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Informatics"
   institution = "University of Edinburgh"
-  year = SOON
+  year = 2021
 
 [[education.courses]]
   course = "MEng. in Computer Science"
@@ -36,4 +37,4 @@ weight = 5
 
 # Biography
 
-I am a PhD student at The University of Edinburgh, studying NLP and machine learning with my primary supervisor [Adam Lopez](https://alopez.github.io/). My current interests relate to NLP learning dynamics: how deep models learn to encode linguistic structure, and how we can encode inductive bias from linguistics into the training process. In my spare time, I play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), do [standup](https://www.youtube.com/watch?v=BzNDdS-lcqM), and shepherd disabled programmers into the world of [code dictation](http://nsaphra.github.io/post/hands/).
+Congratulations on discovering the personal website of Naomi Saphra! I am a postdoctoral researcher at [NYU CILVR](https://wp.nyu.edu/cilvr/), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My current interests relate to NLP learning dynamics: how deep models learn to encode linguistic structure, and how we can encode inductive bias from linguistics into the training process. In my spare time, I play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), do [standup](https://www.youtube.com/watch?v=BzNDdS-lcqM), and shepherd disabled programmers into the world of [code dictation](http://nsaphra.github.io/post/hands/).
