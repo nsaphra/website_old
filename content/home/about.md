@@ -35,6 +35,6 @@ weight = 5
 
 +++
 
-# Biography
+# Congratulations!
 
-Congratulations on discovering the personal website of Naomi Saphra! I am a postdoctoral researcher at [NYU CILVR](https://wp.nyu.edu/cilvr/), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My current interests relate to NLP learning dynamics: how deep models learn to encode linguistic structure, and how we can encode inductive bias from linguistics into the training process. In my spare time, I play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), do [standup](https://www.youtube.com/watch?v=BzNDdS-lcqM), and shepherd disabled programmers into the world of [code dictation](http://nsaphra.github.io/post/hands/).
+You have discovered the personal website of Naomi Saphra! I am a postdoctoral researcher at [NYU CILVR](https://wp.nyu.edu/cilvr/), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My current interests relate to NLP learning dynamics: how deep models learn to encode linguistic structure, and how we can encode inductive bias from linguistics into the training process. In my spare time, I play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), do [standup](https://www.youtube.com/watch?v=BzNDdS-lcqM), and shepherd disabled programmers into the world of [code dictation](http://nsaphra.github.io/post/hands/).
