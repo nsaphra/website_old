@@ -12,7 +12,7 @@ authors = []
 tags = []
 categories = []
 
-summary = "A petty rant on the exceptional treatment of computer vision applications by the machine learning community."
+summary = "A petty rant on the exceptional treatment of computer vision applications, directed at the machine learning community."
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
