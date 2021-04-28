@@ -1,5 +1,5 @@
 +++
-title = "The Perils of Monodomainism"
+title = "Against Monodomainism"
 
 date = 2021-04-28T00:00:00
 draft = false
