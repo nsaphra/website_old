@@ -21,6 +21,10 @@ PDFs: [Industry resume](/files/industry_resume.pdf) or [academic CV](/files/acad
 
 ### Research Experience
 
+**NYU (2021-2022):**
+
+Postdoc with Kyunghyun Cho
+
 **Johns Hopkins University (2013-2015):**
 
 Research Assistant. Machine translation, informal domain adaptation, and semantics research in pursuit of a PhD.
@@ -58,7 +62,7 @@ Engineering Intern. Engineered and tested new features for the People You May Kn
 
 ### Teaching
 
-**Tutor, University of Edinburgh (2016-)**
+**Tutor, University of Edinburgh (2016-2020)**
 
 Machine Learning And Pattern Recognition; Probabilistic Modeling And Reasoning; Informatics Research Review.
 
@@ -71,6 +75,7 @@ Natural Language Processing.
 Ancient Greek. (I will never drop this item from my CV.)
 
 ### Service
+- Representation Learning for NLP (RepL4NLP) 2021 - Organizing Committee
 - ACL Accessibility Subcommittee (2020)
 - Edinburgh Uni Staff Pride Network Disability Representative (2019-2020)
 - Machine Learning for NLP Reading Group Leader at Edinburgh (2018-2019)
@@ -87,14 +92,15 @@ Ancient Greek. (I will never drop this item from my CV.)
 - ACL
 - EMNLP
 - NAACL
-- NeurIPS(secondary)
+- NeurIPS
 - BlackboxNLP
 - RepEval
-- Learning With Limited Data
+- Learning With Limited Data Workshop
 - Women in Machine Learning (WIML)
 - WiNLP
 
 ### Awards
+- ICLR Outstanding Reviewer 2021
 - New York Academy of Sciences - Natural Language, Dialogue and Speech Symposium: Best Poster Runner Up
 - Daniella Sciama Award for Achievement through Adversity 2019.
 - Google Europe Scholarship for Students with Disabilities 2017.
