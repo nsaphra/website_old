@@ -8,5 +8,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: ""
-url_pdf: "http://arxiv.org/abs/2106.16163"
+url_pdf: "https://arxiv.org/pdf/2106.16163.pdf"
 ---
