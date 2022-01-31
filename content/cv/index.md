@@ -75,6 +75,7 @@ Natural Language Processing.
 Ancient Greek. (I will never drop this item from my CV.)
 
 ### Service
+- Lecturer on mathematical fundamentals of AI for NYU AI School
 - NAACL D&I Session: Inclusivity in Conferences - Panelist
 - Representation Learning for NLP (RepL4NLP) 2021 - Organizing Committee
 - ACL Accessibility Subcommittee (2020)
