@@ -10,7 +10,7 @@ PDFs: [Industry resume](/files/industry_resume.pdf) or [academic CV](/files/acad
 
 ### Education
 
-**PhD, Informatics.** University of Edinburgh (In Progress, est. 2021)
+**PhD, Informatics.** University of Edinburgh, 2021
 
 **Masters of Science and Engineering, Computer Science.** Johns Hopkins University, 2015
 
