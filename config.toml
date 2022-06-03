@@ -189,7 +189,7 @@ enableGitInfo = false
     'Book section'  # 6
     'Workshop paper',  # 7
     'Non-archival', # 8
-    'Preprint' # 9
+    'Preprint', # 9
   ]
 
   # Configuration of talk pages.
