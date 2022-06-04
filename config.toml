@@ -323,7 +323,7 @@ enableGitInfo = false
 
 
 [[menu.main]]
-name = "Resume"
+name = "Resumé"
 url = "files/industry_resume.pdf"
 weight = 8
 
