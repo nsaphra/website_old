@@ -21,7 +21,7 @@ PDFs: [Industry resume](/files/industry_resume.pdf) or [academic CV](/files/acad
 
 ### Research Experience
 
-**NYU (2021-2022):**
+**NYU (2021-PRESENT):**
 
 Postdoc with Kyunghyun Cho
 
@@ -39,6 +39,10 @@ Undergraduate Research Fellow at the CLSP Summer Workshop. On computer vision te
 to verify and explore boundary annotations from Mechanical Turk.
 
 ### Industry Experience
+
+**Mosaic ML (2022-PRESENT):**
+
+Research Intern, AI/Language group. Worked on dynamics of transformer models.
 
 **Google (Winter 2020):**
 
@@ -62,6 +66,10 @@ Engineering Intern. Engineered and tested new features for the People You May Kn
 
 ### Teaching
 
+**Project Supervisor, NYU (2021)**
+
+Center for Data Science Capstone.
+
 **Tutor, University of Edinburgh (2016-2020)**
 
 Machine Learning And Pattern Recognition; Probabilistic Modeling And Reasoning; Informatics Research Review.
@@ -75,6 +83,10 @@ Natural Language Processing.
 Ancient Greek. (I will never drop this item from my CV.)
 
 ### Service
+- Analyzing and interpreting neural networks for NLP (BlackboxNLP) at EMNLP 2022 - Organizing Committee.
+- EMNLP 2022 - Area Chair (Interpretability).
+- ACL 2022 - Session Chair (Interpretability).
+- EMNLP 2021 - Area Chair (Interpretability).
 - Lecturer on mathematical fundamentals of AI for NYU AI School
 - NAACL D&I Session: Inclusivity in Conferences - Panelist
 - Representation Learning for NLP (RepL4NLP) 2021 - Organizing Committee
@@ -88,6 +100,7 @@ Ancient Greek. (I will never drop this item from my CV.)
 - Carnegie Mellon Tartanhacks Mentor (hackathon) (2013).
 
 ### Reviewing Service
+#### Conferences
 - ICLR
 - ICML
 - EACL
@@ -95,15 +108,20 @@ Ancient Greek. (I will never drop this item from my CV.)
 - EMNLP
 - NAACL
 - NeurIPS
+
+#### Workshops
+- I Can't Believe It's Not Better (NeurIPS Negative Results Workshop)
+- CoNLL
 - BlackboxNLP
 - RepEval
 - Learning With Limited Data Workshop
 - Women in Machine Learning (WIML)
 - WiNLP
 
+
 ### Awards
-- ICLR Outstanding Reviewer 2021
-- New York Academy of Sciences - Natural Language, Dialogue and Speech Symposium: Best Poster Runner Up
+- ICLR Outstanding Reviewer 2021, 2022.
+- New York Academy of Sciences - Natural Language, Dialogue and Speech Symposium: Best Poster Runner Up 2019.
 - Daniella Sciama Award for Achievement through Adversity 2019.
 - Google Europe Scholarship for Students with Disabilities 2017.
 - Carnegie Mellon School of Computer Science Dragon Award 2013.
