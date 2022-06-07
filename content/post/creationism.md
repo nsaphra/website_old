@@ -5,11 +5,11 @@ date = 2021-07-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Naomi Saphra"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["training dynamics", "rant"]
 categories = []
 
 summary = "Nothing in Deep Learning Makes Sense Except in the Light of SGD."
