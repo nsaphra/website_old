@@ -12,7 +12,7 @@ authors = []
 tags = []
 categories = []
 
-summary = "A petty rant on the failure of attempts to understand machine learning models by looking only at inference time."
+summary = "Nothing in Deep Learning Makes Sense Except in the Light of SGD."
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
