@@ -22,7 +22,7 @@ summary = "A petty rant on the failure of attempts to understand machine learnin
 [header]
 image = ""
 caption = ""
-preview = true
+preview = false
 
 +++
 
