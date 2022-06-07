@@ -1,7 +1,7 @@
 +++
 title = "Interpretability Creationism"
 
-date = 2022-07-07T00:00:00
+date = 2022-06-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -25,7 +25,6 @@ caption = ""
 preview = true
 
 +++
-
 
 For centuries, Europeans agreed that the presence of a cuckoo egg was a great honor to a nesting bird, as it granted an opportunity to exhibit Christian hospitality. The devout bird enthusiastically fed her holy guest, even more so than she would her own (evicted) chicks [(Davies, 2015)](https://app.thestorygraph.com/books/37ed3b62-8a3a-448b-9e37-cd5e5f51c640). In 1859, Charles Darwin’s studies of another occasional brood parasite, finches, called into question any rosy, cooperative view of bird behavior [(Darwin, 1859)](https://app.thestorygraph.com/books/44185106-8198-42ef-bacf-8a9bf691e654). Without considering the evolution of the cuckoo’s role, it would have been difficult to recognize the nesting bird not as a gracious host to the cuckoo chick, but as an unfortunate dupe. The historical process is essential to understanding its biological consequences; as evolutionary biologist Theodosius Dobzhansky put it, [Nothing in Biology Makes Sense Except in the Light of Evolution](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution#cite_note-Dobz_Nothing-1).
 
