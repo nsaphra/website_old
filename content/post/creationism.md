@@ -60,7 +60,7 @@ But could we actually make this claim? What if one cluster actually corresponded
 
 ## A Proposal
 
-To be clear, not every question can be answered *only* by observing the training process. Causal claims require interventions! In biology, for example, research about antibiotic resistance requires us to deliberately expose bacteria to antibiotics, rather than waiting and hoping to find a natural experiment. Even claims currently being made in training dynamics may require experimental confirmation.
+To be clear, not every question can be answered by *only* observing the training process. Causal claims require interventions! In biology, for example, research about antibiotic resistance requires us to deliberately expose bacteria to antibiotics, rather than waiting and hoping to find a natural experiment. Even claims currently being made in training dynamics may require experimental confirmation.
 
 Furthermore, not all claims require *any* observation of the training process. Even to ancient humans, many organs had obvious purpose: eyes see, hearts pump blood, and [brains are refrigerators](https://www.scientificamerican.com/article/aristotle-thought-the-brain-was-a-radiator/). Likewise in NLP, just by analyzing static models we can make simple claims: that particular neurons activate in the presence of particular properties, or that some types of information remain accessible within a model. However, the training dimension can still clarify the meaning of many observations made in a static model.
 
