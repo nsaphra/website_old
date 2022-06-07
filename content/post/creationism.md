@@ -2,7 +2,7 @@
 title = "Interpretability Creationism"
 
 date = 2022-07-28T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -22,7 +22,7 @@ summary = "A petty rant on the failure of attempts to understand machine learnin
 [header]
 image = ""
 caption = ""
-preview = false
+preview = true
 
 +++
 
