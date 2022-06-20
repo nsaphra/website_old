@@ -13,7 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "NYU AI School"
+event = "3rd Neural Scaling Laws Workshop"
 
 # Location of event.
 location = "Manoir Saint-Sauveur, Quebec"
