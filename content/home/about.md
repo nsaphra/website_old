@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Natural Language Processing",
-    "Interpretability",
     "Training Dynamics",
     "Compositionality",
+    "Generalization",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,4 +37,7 @@ weight = 5
 
 # Congratulations!
 
-You have discovered the personal website of Naomi Saphra! I am a postdoctoral researcher at [NYU CILVR](https://wp.nyu.edu/cilvr/), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My current interests relate to NLP learning dynamics: how deep models learn to encode linguistic structure, and how we can encode inductive bias from linguistics into the training process. In my spare time, I play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), do [standup](https://www.youtube.com/watch?v=BzNDdS-lcqM), and shepherd disabled programmers into the world of [code dictation](http://nsaphra.github.io/post/hands/).
+You have discovered the personal website of Naomi Saphra!
+
+Naomi is currently a postdoctoral researcher at [NYU CILVR](https://wp.nyu.edu/cilvr/) with [Kyunghyun Cho](https://kyunghyuncho.me/) and working part time at [MosaicML](https://www.mosaicml.com/).
+Their interests relate to NLP learning dynamics: how models learn to encode linguistic patterns or other structure, and how we can encode useful inductive biases into the training process. Previously, Naomi has earned a PhD from the University of Edinburgh, worked at Google and Facebook, and attended Johns Hopkins and Carnegie Mellon University.  Outside of research, they play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), do [standup comedy](https://www.youtube.com/watch?v=BzNDdS-lcqM), and shepherd disabled programmers into the world of [code dictation](http://nsaphra.github.io/post/hands/).
