@@ -19,8 +19,7 @@ event = "!!Con West"
 location = "Santa Cruz, California"
 
 # Is this a selected talk? (true/false)
-selected = true
-featured = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
