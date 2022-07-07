@@ -15,6 +15,7 @@ weight = 5
     "Training Dynamics",
     "Compositionality",
     "Generalization",
+    "Loss Surfaces",
   ]
 
 # List your qualifications (such as academic degrees).
