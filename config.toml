@@ -238,6 +238,12 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:nsaphra@nsaphra.net"
 
+
+  [[params.social]]
+    icon = "fa-mastodon"
+    icon_pack = "fab"
+    link = "//sigmoid.social/web/@nsaphra"
+
   [[params.social]]
     icon = "fa-twitter"
     icon_pack = "fab"
@@ -247,21 +253,21 @@ enableGitInfo = false
     icon = "ai-google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=TPhVfX8AAAAJ"
-
-    [[params.social]]
-      icon = "ai-semantic-scholar"
-      icon_pack = "ai"
-      link = "https://www.semanticscholar.org/author/Naomi-Saphra/2362960"
+    #
+    # [[params.social]]
+    #   icon = "ai-semantic-scholar"
+    #   icon_pack = "ai"
+    #   link = "https://www.semanticscholar.org/author/Naomi-Saphra/2362960"
 
   [[params.social]]
     icon = "fa-github"
     icon_pack = "fab"
     link = "//github.com/nsaphra"
-
-  [[params.social]]
-    icon = "fa-goodreads"
-    icon_pack = "fab"
-    link = "//goodreads.com/user/show/3771853-naomi-saphra"
+  #
+  # [[params.social]]
+  #   icon = "fa-goodreads"
+  #   icon_pack = "fab"
+  #   link = "//goodreads.com/user/show/3771853-naomi-saphra"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
